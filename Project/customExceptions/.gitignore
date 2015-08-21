@@ -1,0 +1,13 @@
+/AlreadyConnectedException.class
+/DataValidationException.class
+/InvalidConnectionIdException.class
+/InvalidEnumException.class
+/InvalidMarketStateException.class
+/InvalidMarketStateTransitionException.class
+/InvalidPriceOperation.class
+/InvalidVolumeException.class
+/NoSuchProductException.class
+/OrderNotFoundException.class
+/ProductAlreadyExistsException.class
+/SubscriberException.class
+/UserNotConnectedException.class
